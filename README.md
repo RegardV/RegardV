@@ -79,7 +79,7 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 
 <!-- Activity Feed: Updated placeholder for auto-updates -->
 ## 🕒 Recent Activity
-<!-- activity -->
+<!--START_SECTION:activity-->
 <!-- This will auto-populate with your latest GitHub actions (e.g., "Pushed to CourseCraftCrew") -->
 
 <!-- Tip as a comment for you -->
