@@ -80,14 +80,10 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 <!-- Activity Feed: Updated placeholder for auto-updates -->
 ## 🕒 Recent Activity
 <!--START_SECTION:activity-->
-<!-- This will auto-populate with your latest GitHub actions (e.g., "Pushed to CourseCraftCrew") -->
-
-<!-- Tip as a comment for you -->
-<!-- Tip: Workflow is set—make commits to see it fill up! -->
 
 ---
 
-cosyst<!-- Fun Fact Section: Your VBA story with minor polish -->
+<!-- Fun Fact Section: Your VBA story with minor polish -->
 ## 🤖 Why AI Agents?
 After building VBA software for work right in Excel using ChatGPT, I’m sold on AI that doesn’t just obey—it *thinks* and *teams up*. Every prompt I tweak feels like a step toward a self-running system. This GIF captures my grind—and my wins:
 
