@@ -1,8 +1,8 @@
 name: Update README Activity
 on:
   schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual trigger
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -13,3 +13,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           COMMIT_MSG: "Update recent activity"
+          MAX_LINES: "5" # Limits to 5 recent events
