@@ -60,9 +60,27 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 - ✅ Launched a running autonomos AI_agent on X.com [@SammySmithery](https://x.com/SammySmithery)
 ---
 
-<!-- Stats Section: Dynamic stats card for visual punch -->
-## 📊 Stats
+<!-- Stats Section: Added activity graph, languages, and trophies -->
+## 📊 My GitHub Pulse
+<!-- General stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RegardV&show_icons=true&theme=radical)
+<!-- Top languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RegardV&layout=compact&theme=radical)
+<!-- Activity graph -->
+![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RegardV&theme=radical)
+<!-- Trophies -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=RegardV&theme=radical&margin-w=15)
+
+---
+
+<!-- Activity Feed: Placeholder for auto-updates -->
+## 🕒 Recent Activity
+<!-- This will be updated by a GitHub Action -->
+<!-- Example: - Pushed to CourseCraft-Crew: "Added PDF generation logic" -->
+
+<!-- Tip as a comment for you -->
+<!-- Tip: Add the workflow below to .github/workflows/update-activity.yml to enable this! -->
+
 
 ---
 
@@ -78,5 +96,6 @@ After building a VBA software for my work right in Excell using chat GPT, I’m 
 ## 📫 Let’s Connect 
 - **Twitter:** [@InkyPyrus_PubCo](https://x.com/InkyPyrus_PubCo) <!-- Add your real Twitter if you have one! -->
 - **Gumroad:** [gumroad.com/inkypyrus](https://inkypyrus.gumroad.com/) <!-- Update with your actual Gumroad URL! -->
+- **Mailinglist:** [![Sign Up](https://img.shields.io/badge/Sign%20Up-Now-green)](https://your-mailerlite-form-url)
 
 Got feedback, tips, or a wild idea for AI agents? I’m all ears—let’s build something epic!
