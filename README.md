@@ -76,7 +76,7 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 
 <!-- Activity Feed: Placeholder for auto-updates -->
 ## 🕒 Recent Activity
-[![CI](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml)
+[![CI](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)]
 <!-- This will be updated by a GitHub Action -->
 <!-- Example: - Pushed to CourseCraft-Crew: "Added PDF generation logic" -->
 
