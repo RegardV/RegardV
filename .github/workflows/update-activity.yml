@@ -14,3 +14,4 @@ jobs:
         with:
           COMMIT_MSG: "Update recent activity"
           MAX_LINES: "5" # Limits to 5 recent events
+          START_SECTION: "activity" # Matches <!-- activity -->
