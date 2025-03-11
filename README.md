@@ -80,6 +80,7 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 <!-- Activity Feed: Updated placeholder for auto-updates -->
 ## 🕒 Recent Activity
 <!--START_SECTION:activity-->
+<!-- activity -->
 
 ---
 
