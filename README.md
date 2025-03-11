@@ -33,10 +33,11 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 ## 🚀 Current Projects
 
 ### Agentic Workflow: CourseCraft Crew
-- **[CourseCraft-Crew](https://github.com/RegardV/coursecraft_crew)**  
+- **[CourseCraft-Crew](https://github.com/RegardV/CourseCraftCrew)**  
+  ![Workflow Status](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)  
   An AI-powered platform using **CrewAI** and the **xAI API** to automate self-help course creation—like “Journaling for Anxiety.” Still in development, it’s my proving ground for agent-driven content generation, from research to polished PDFs—destined for platforms like Gumroad.  
   - **What’s Done:** Phase 1 is complete—text and image-based courses ready for testing with a 2-3 page PDF output.  
-  - **Next Up:** Testing Phase 1, then adding audio (Phase 2) and video (Phase 3) by May 2025.  
+  - **Next Up:** Testing Phase 1, then adding audio (Phase 2) and video (Phase 3) by April 2025.  
 
 <!-- Tip as a comment for you -->
 <!-- Tip: Update the repo link once it’s live—use this as motivation to push your code! -->
