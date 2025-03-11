@@ -46,9 +46,10 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 
 ### Local Multimodal LLM: Janusvision
 - **[Janusvision](https://github.com/RegardV/Janusvision)**  
+  (Paused)
   A Dockerized web app running **Janus-Pro-7B** from DeepSeek, featuring a Gradio UI for text-to-image generation and image-based insights. Built with GPU acceleration on an Ubuntu KVM with passthroughs and VRAM spillover for an 8GB RTX 4070 (mobile), it’s a solid proof-of-concept for multimodal AI—now on the backburner.  
   - **What’s Done:** Deployed a functional app with CUDA support, optimized builds with caching, and enabled LAN access for testing.  
-  - **Next Up (Paused):** Tuning performance, expanding features (e.g., text-only queries), and refining the UI—on hold to focus on agentic systems.  
+  - **Next Up :** Tuning performance, expanding features (e.g., text-only queries), and refining the UI—on hold to focus on agentic systems.  
 
 <!-- Tip as a comment for you -->
 <!-- Tip: Your Janusvision README is detailed—consider archiving the repo to signal its paused status! -->
