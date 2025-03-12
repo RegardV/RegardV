@@ -7,9 +7,6 @@
 I’m a DevOps practitioner with a few months of hands-on experience, now leveling up into **AI and agentic systems**. I’ve built a foundation with virtual machines, environments, and containers, and I’m hooked on creating workflows where AI agents run the show—from automation to social marketing strategies for platforms like Gumroad. Prompt engineering and autonomous deployments are my current obsessions—join me as I push the boundaries of what I once thought was impossible!
 
 ---
-# Whats on the Horizon 
-[A page dedicated to my discoveries and interests](https://github.com/RegardV/RegardV/blob/main/Horizon.md)
----
 
 <!-- Learning Section: Your version, unchanged -->
 ## 🧠 What I’m Mastering
@@ -31,6 +28,11 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai)
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
+
+---
+
+# Whats on the Horizon 
+[A page dedicated to my discoveries and interests](https://github.com/RegardV/RegardV/blob/main/Horizon.md)
 
 ---
 
