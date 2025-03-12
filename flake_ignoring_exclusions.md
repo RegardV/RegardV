@@ -253,4 +253,9 @@ If It Still Doesn’t Work
     
     And try again.
     
-- Ask for Help:
+- Handy Resources
+- [Flake8 Official Documentation](https://flake8.pycqa.org/en/latest/) - The main source for Flake8’s features, configuration options, and updates.
+- [PyPI Flake8 Page](https://pypi.org/project/flake8/) - Check the latest version and installation details.
+- [PEP 8 Style Guide](https://pep8.org/) - The Python style guide Flake8 enforces, great for understanding the rules.
+- [GitHub Flake8 Repository](https://github.com/PyCQA/flake8) - See the source code, report issues, or contribute.
+- [Real Python: Using Flake8](https://realpython.com/python-code-quality/#using-flake8) - A beginner-friendly tutorial on setting up and using Flake8.
