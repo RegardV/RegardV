@@ -84,11 +84,6 @@ I’m a DevOps practitioner with a few months of hands-on experience, now leveli
 
 ---
 
-## Issues I got stuck on and solved. 
-[Flake8 Ignoring Exclusions Walkthrough](https://github.com/RegardV/RegardV/blob/main/flake_ignoring_exclusions.md)
-
----
-
 <!-- Fun Fact Section: Your VBA story with minor polish -->
 ## 🤖 Why AI Agents?
 After building VBA software for work right in Excel using ChatGPT, I’m sold on AI that doesn’t just obey—it *thinks* and *teams up*. Every prompt I tweak feels like a step toward a self-running system. This GIF captures my grind—and my wins:
@@ -104,3 +99,10 @@ After building VBA software for work right in Excel using ChatGPT, I’m sold on
 - **Newsletter:** Sign up for updates on my AI projects and Gumroad courses: [![Sign Up](https://img.shields.io/badge/Sign%20Up-Now-green)](https://your-mailerlite-form-url) <!-- Add your MailerLite form URL! -->
 
 Got feedback, tips, or a wild idea for AI agents? I’m all ears—let’s build something epic!
+
+---
+
+## Issues I got stuck on and solved. 
+[Flake8 Ignoring Exclusions Walkthrough](https://github.com/RegardV/RegardV/blob/main/flake_ignoring_exclusions.md)
+
+---
