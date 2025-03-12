@@ -6,7 +6,7 @@ Imagine you’re working on a Python project, and you’re using Flake8—a tool
 
 We’ll assume you’re in your project folder (e.g., ~/myproject/), using a Linux system like Ubuntu, and you’ve installed Flake8. Let’s learn how to solve this together!
 
-Step 1: Check What Flake8 You’re Using
+# Step 1: Check What Flake8 You’re Using
 
 Flake8 is like a program with different versions (think of it like app updates on your phone). Older versions might have glitches, so we need to see which one you have.
 
@@ -48,7 +48,7 @@ Flake8 is like a program with different versions (think of it like app updates o
     - Replace yourusername with your actual username (type whoami to find it).
     - This uses the new Flake8 you installed.
 
-Step 2: See If Flake8 Finds Your Config File
+# Step 2: See If Flake8 Finds Your Config File
 
 Flake8 looks for a file like .flake8 in your project folder to know what to skip. Let’s check if it’s finding it.
 
@@ -79,7 +79,7 @@ Flake8 looks for a file like .flake8 in your project folder to know what to skip
     - -config=.flake8: Says "use this file right here."
     If it still doesn’t mention "config file" but works (we’ll test later), don’t worry—some versions (like 7.0.0) are quiet about it.
 
-Step 3: Check and Fix Your .flake8 File
+# Step 3: Check and Fix Your .flake8 File
 
 Your .flake8 file is like a rulebook for Flake8. If the rules are written wrong, Flake8 might skip them. Let’s look at a common mistake.
 
@@ -127,7 +127,7 @@ Your .flake8 file is like a rulebook for Flake8. If the rules are written wrong,
     ```
     
 
-Step 4: Test If Exclusions Work
+# Step 4: Test If Exclusions Work
 
 Let’s see if Flake8 skips venv/ and test_dir/ now.
 
@@ -167,7 +167,7 @@ Let’s see if Flake8 skips venv/ and test_dir/ now.
     ```
     
 
-Step 5: Try Exclusions Without a Config File
+# Step 5: Try Exclusions Without a Config File
 
 Let’s test if Flake8 can skip folders when you tell it directly, not through .flake8.
 
@@ -185,7 +185,7 @@ Let’s test if Flake8 can skip folders when you tell it directly, not through .
     - If this works (no venv or test_dir in output), the problem was in .flake8.
     - If it fails, Flake8 itself might be broken—go back to Step 1 and update it.
 
-Step 6: Make It Easy with a Script
+# Step 6: Make It Easy with a Script
 
 If everything works with --config=.flake8, let’s save it in a script so you don’t have to type it every time.
 
@@ -208,7 +208,7 @@ If everything works with --config=.flake8, let’s save it in a script so you do
     - Final cat: Checks the result.
 - Why It Helps: Now you just type ./flake8_check.sh to check your code, and it’ll always use your .flake8.
 
-What You Learned
+# What You Learned
 
 - Flake8 Versions: Newer is better—update if it’s old.
 - Config Files: Flake8 needs .flake8 to know what to skip, but it might not find it automatically.
@@ -216,7 +216,7 @@ What You Learned
 - Testing: Use --verbose and grep to see what Flake8’s doing.
 - Scripts: Save commands in a file to make life easier.
 
-Example Working .flake8
+#Example Working .flake8
 
 ini
 
@@ -232,7 +232,7 @@ max-line-length = 120  # Lines can be 120 characters long
 ignore = E203, W503     # Skip some picky rules
 ```
 
-If It Still Doesn’t Work 
+# If It Still Doesn’t Work 
 
 - Check Other Configs: Look at:
     
@@ -253,7 +253,7 @@ If It Still Doesn’t Work
     
     And try again.
     
-- Handy Resources
+# Handy Resources
 - [Flake8 Official Documentation](https://flake8.pycqa.org/en/latest/) - The main source for Flake8’s features, configuration options, and updates.
 - [PyPI Flake8 Page](https://pypi.org/project/flake8/) - Check the latest version and installation details.
 - [PEP 8 Style Guide](https://pep8.org/) - The Python style guide Flake8 enforces, great for understanding the rules.
