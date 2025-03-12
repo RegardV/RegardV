@@ -75,8 +75,74 @@ Additional hubs to explore and contribute to MCP:
 - **[X #ModelContextProtocol](https://twitter.com/hashtag/ModelContextProtocol)**: Follow @AnthropicAI, @swyx, @alexalbert01.
 - **[GitHub Issues](https://github.com/modelcontextprotocol/servers/issues)**: Community feedback.
 
-## Get Involved
-Clone a server, build a plug (like a website fetcher), or join the convo on X. MCP’s young—your contribution could shape its future. Let’s make AI more connected!
+## Community Plugs as Examples
+Here are notable community-built MCP plugs, sourced from the ecosystem’s growth by March 2025:
+
+- **Brave Search Server**
+  - **Creator**: Community contributor (not Anthropic).
+  - **Purpose**: Integrates Brave’s Search API for web and local search, allowing LLMs to retrieve real-time web results.
+  - **Location**: Listed in [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Enables AI to fetch web content efficiently, aligning with interests in website interaction and dynamic data access.
+
+- **Obsidian MCP Server**
+  - **Creator**: Steven Stavrakis.
+  - **Purpose**: Connects to Obsidian.md for note searching, reading, and writing, integrating personal knowledge bases with AI.
+  - **Location**: [github.com/modelcontextprotocol/servers/src/obsidian-mcp](https://github.com/modelcontextprotocol/servers) (community PR).
+  - **Why It’s an Example**: Demonstrates MCP’s flexibility for personal productivity tools, bridging AI with user-managed content.
+
+- **FireCrawl Server**
+  - **Creator**: Community developer (maintained by Firecrawl team, often linked via X posts).
+  - **Purpose**: Provides advanced web scraping with JavaScript rendering and PDF support, enabling LLMs to process complex web pages.
+  - **Location**: Referenced in [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) and X posts (e.g., [@firecrawl_dev](https://twitter.com/firecrawl_dev), February 21, 2025).
+  - **Why It’s an Example**: Ideal for website-focused AI tasks, offering robust scraping capabilities beyond basic HTTP requests.
+
+- **Kubernetes MCP Server**
+  - **Creator**: Unknown community member (PR submitted January 2025).
+  - **Purpose**: Manages Kubernetes clusters via MCP, allowing AI to interact with containerized infrastructure.
+  - **Location**: PR in [github.com/modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers).
+  - **Why It’s an Example**: Extends MCP into DevOps and infrastructure management, showing its reach beyond consumer apps.
+
+- **Pandoc Server**
+  - **Creator**: Community contributor.
+  - **Purpose**: Converts documents between formats (Markdown, HTML, PDF, etc.) using Pandoc, enhancing AI’s document-handling capabilities.
+  - **Location**: [github.com/modelcontextprotocol/servers/src/pandoc](https://github.com/modelcontextprotocol/servers).
+  - **Why It’s an Example**: Highlights MCP’s utility for file manipulation, useful for content transformation tasks.
+
+- **Cloudflare MCP Server**
+  - **Creator**: Community contributor (noted in X posts, e.g., [@NickADobos](https://twitter.com/NickADobos), March 9, 2025).
+  - **Purpose**: Interacts with Cloudflare services (KV Store, R2 Storage, D1 Database, Workers), enabling AI to manage cloud resources.
+  - **Location**: [github.com/punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) (community fork).
+  - **Why It’s an Example**: Showcases MCP’s potential in cloud computing, integrating AI with modern web infrastructure.
+
+- **Supabase MCP Server**
+  - **Creator**: Community developer (mentioned by [@NickADobos](https://twitter.com/NickADobos) on X, March 9, 2025).
+  - **Purpose**: Connects to Supabase for real-time database queries and storage, linking AI to backend-as-a-service platforms.
+  - **Location**: Likely in [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Illustrates MCP’s use with developer-friendly databases, enhancing AI-driven app development.
+
+- **Figma MCP Server**
+  - **Creator**: Community contributor (noted by [@NickADobos](https://twitter.com/NickADobos), March 9, 2025).
+  - **Purpose**: Integrates with Figma’s API to fetch design data or manipulate files, connecting AI to creative workflows.
+  - **Location**: Referenced in community lists like [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Expands MCP into design and collaboration tools, showing its creative potential.
+
+- **Stripe MCP Server**
+  - **Creator**: Community developer (highlighted by [@NickADobos](https://twitter.com/NickADobos), March 9, 2025).
+  - **Purpose**: Interfaces with Stripe for payment processing and financial data retrieval, enabling AI to handle e-commerce tasks.
+  - **Location**: Likely in [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Demonstrates MCP’s applicability in fintech, integrating AI with transactional systems.
+
+- **Memory Graph Server**
+  - **Creator**: Community contributor (via Theia AI, December 19, 2024).
+  - **Purpose**: Provides a memory graph for context retention across AI interactions, improving conversational continuity.
+  - **Location**: [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Enhances AI memory capabilities, a unique use case for smarter agents.
+
+- **LangGraph MCP Server**
+  - **Creator**: Community developer.
+  - **Purpose**: Integrates with LangGraph for structured AI workflows, enabling complex multi-step reasoning.
+  - **Location**: [github.com/appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers).
+  - **Why It’s an Example**: Shows MCP supporting advanced AI frameworks, pushing beyond simple tool calls.
 
 ---
 *Last updated: March 12, 2025*
