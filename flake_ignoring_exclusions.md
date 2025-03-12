@@ -1,4 +1,4 @@
-# Flake8 ignoring exclusions
+# Flake8 ignoring .venv exclusions  - Solved
 
 Educational Walkthrough: Fixing Flake8 When It Ignores Exclusions in venv (Beginner-Friendly)
 
