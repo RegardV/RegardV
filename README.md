@@ -4,7 +4,7 @@
 # 👋 Hey, I’m RegardV - DevOps Enthusiast & AI Agent Builder
 
 <!-- Bio: Your tweak with virtual machines and "what I once thought was impossible" -->
-I’m a DevOps practitioner with a few months of hands-on experience, now leveling up into **AI and agentic systems**. I’ve built a foundation with virtual machines, environments, and containers, and I’m hooked on creating workflows where AI agents run the show—from automation to social marketing strategies for platforms like Gumroad. Prompt engineering and autonomous deployments are my current obsessions—join me as I push the boundaries of what I once thought was impossible!
+I’m a DevOps practitioner with a few months of hands-on experience, now leveling up into **AI and agentic systems**. I’ve built a foundation with virtual machines, environments, and containers, and I’m hooked on creating workflows where AI agents run the show—from automation to social marketing strategies. Prompt engineering and autonomous deployments are my current obsessions—join me as I push the boundaries of what I once thought was impossible!
 
 ---
 
