@@ -15,7 +15,7 @@ I’m obsessed with staying ahead of the curve in AI-Ops. I dive into the latest
 ## 🌟 My Vision
 I’m working toward a platform that empowers a journaling community, driven by AI-powered content and marketing automation. Whether it’s stitching together workflows or architecting enterprise-grade pipelines, I thrive on solving complex problems with AI as my co-pilot.
 
-##  Fun Fact, I was born in the same town as Elon Musk
+## 🪄 fun Fact: I was born in Pretoria, South Africa—the same hometown as Elon Musk. It’s a quirky coincidence that fuels my drive to push boundaries and dream big in the world of AI-Ops!
 
 
 
