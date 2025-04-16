@@ -2,7 +2,7 @@
 
 I’m an **AI-Ops pioneer** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating **agentic workflows**, I’m passionate about automating the future. I’ve engineered an AI agent with Abacus Agent Builder that mastered FICA and AML regulatory requirements and developed a CrewAI pipeline that transforms niche ideas into 30-day journaling PDFs—complete with curated content, organic rewrites, and lead magnets.
 
-My toolkit? **Python**, **n8n**, and LLMs like Janus, Stable Diffusion, and Whisper, paired with a knack for prompt engineering and workflow design. With a background in programming (Pascal, Delphi, VBA, SQL) and database management from the late ’90s, I think like a coder and leverage AI to bridge modern gaps, rapidly learning and deploying solutions. I’ve even built a VBA tool to streamline client management, condensing sprawling data into a single, clickable interface.
+My toolkit? **Python**, **n8n**, and LLMs like Grok studio, Chat-gpt and Claude paired with Vs-code, a knack for prompt engineering and workflow design. With a background in programming (Pascal, Delphi, VBA, SQL) and database management from the late ’90s, I think like a coder and leverage AI to bridge modern gaps, rapidly learning and deploying solutions. I’ve even built a VBA tool to streamline client management, condensing sprawling data into a single, clickable interface.
 
 ## 🚀 What I’m Building
 - **Agentic Systems**: Crafting AI crews that automate content creation, from journals to marketing campaigns.
