@@ -1,6 +1,6 @@
 ![GitHub Banner](https://raw.githubusercontent.com/RegardV/RegardV/main/GitHub_Banner.png)
 
-# 👋 I’m RegardV - AI-Ops Visionary
+# 👋 I’m RegardV - AI-Ops Creative Systems Synthesist.
 
 I’m an **AI-Ops pioneer, things move so fast you cant really you are a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioner, everyone thinks I ma bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
 
