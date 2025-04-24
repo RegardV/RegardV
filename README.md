@@ -1,3 +1,4 @@
+
 # 👋 I’m RegardV - AI-Ops Visionary
 
 I’m an **AI-Ops pioneer, things move so fast you cant really you are a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioner, everyone thinks I ma bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
@@ -13,7 +14,9 @@ My toolkit? **Python**, **n8n**, and LLMs like Grok studio, Chat-gpt and Claude 
 
 ## 🚀 What I’m Learning -- I find myself here currently. 
 - **Agentic Systems**: "_Crafting AI crews that automate content creation, from journals to marketing campaigns._"
-I have spent 2 months on Crew-ai preliminary project completed, but there are so many uncertainties. Now building in Agno to a smaller more modular setup. 
+
+I spent Jan to March 2025 on Crew-ai preliminary project completed, but there are so many uncertainties. 
+Now building in Agno to a smaller more modular setup. 
 
 Vibe coding is not for the faint of heart. The main diffirence for me in embracing full vibecoding within a normal project brief, is that there is your base template code. That you guard and revere.:) And when something new works save it, and backup it! 
 
@@ -26,7 +29,7 @@ Started with react, then did pure python, then moved to node and flask. (Still f
 
 First 3 months of 2025
 Spent 2 months learing CLI crew_ai, Python, linux re-education, Vscode, git ( Cline-coder and abaccus.ai agents ) $150usd tokens = Schoolfees at this point
-I created a Flask ap on node,js and built this >> take a look. IF there is no link here yet then I am still adventuring to get it running in Render but the free plan is quite tight so not sure ho well it will perform. (link) 
+I created a Flask ap on node,js and built this >> take a look. IF there is no link here yet, then I am still adventuring to get it running in Render but the free plan is quite tight so not sure ho well it will perform. (link) 
 
 This single page, is the first module in quite an extensive workflow. I am still figuring out the most logical progession of flow, and the pieces, jumping codestacks, I see my tumbnail says rainbow coder haha. But With this small project I can now say that I am the fullstack developer for this page. (grins) yes it's tiny but it works as expected( and render's free hosting is extremely light and tight). But it's llm connected keys saved in the back server, not that ther is much cap on the api haha.( That was a crazy 2 days out of my life trying to wrap my head round HTF do we go from staging to production ready in terms of storing and callin api keys. And actually getting answers from the requests. HAd a little celebration when it all came together. 
 
