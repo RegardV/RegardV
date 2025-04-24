@@ -4,8 +4,21 @@ I’m an **AI-Ops pioneer** blending DevOps foundations with cutting-edge AI to 
 
 My toolkit? **Python**, **n8n**, and LLMs like Grok studio, Chat-gpt and Claude paired with Vs-code, a knack for prompt engineering and workflow design. With a background in programming (Pascal, Delphi, VBA, SQL) and database management from the late ’90s, I think like a coder and leverage AI to bridge modern gaps, rapidly learning and deploying solutions. I’ve even built a VBA tool to streamline client management, condensing sprawling data into a single, clickable interface.
 
-## 🚀 What I’m Building
-- **Agentic Systems**: Crafting AI crews that automate content creation, from journals to marketing campaigns.
+## 🚀 What I’m Learning -- I find myself here currently. 
+- **Agentic Systems**: "_Crafting AI crews that automate content creation, from journals to marketing campaigns._"
+I have spent 2 months on Crew-ai preliminary project completed, but there are so many uncertainties. Now building in Agno to a smaller more modular setup. 
+
+Vibe coding is not for the faint of heart. The main diffirence for me in embracing full vibecoding within a normal project brief, is that there is your base template code. That you guard and revere.:) And when something new works save it, and backup it! 
+
+Because 9 out of ten times then next prompt F's it all up again and you have to start from base again. Chatgpt's longer memory is useless if it cant keep to a disipine. I find x.ai To be much more accurately in suquencial processing. but I will have to test some prompts on chat gpt before I can say that for certain.
+
+I am also finaly starting to see the code, its really cool, but LEts keep strenths to strenths. I thiink the ability to read code for vibe coding is inherently being able to spor when flow is applied wroing or inferred with a diffirent perspective than intended. An no amount of prompting is going to budge that, you have to go into the code with the crowbar and work it. 
+
+ 
+
+## 🚀 What I’m building
+
+
 - **Intelligent Automation**: Designing workflows that think, adapt, and deliver business value.
 - **AI-Ops Innovation**: Exploring scalable AI deployments to revolutionize operations.
 
