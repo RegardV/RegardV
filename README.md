@@ -1,6 +1,13 @@
 # 👋 I’m RegardV - AI-Ops Visionary
 
-I’m an **AI-Ops pioneer** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating **agentic workflows**, I’m passionate about automating the future. I’ve engineered an AI agent with Abacus Agent Builder that mastered FICA and AML regulatory requirements and developed a CrewAI pipeline that transforms niche ideas into 30-day journaling PDFs—complete with curated content, organic rewrites, and lead magnets.
+I’m an **AI-Ops pioneer, things move so fast you cant really you are a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioner, everyone thinks I ma bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
+
+**agentic workflows**, I’m passionate about automating the future( yes we are creating systems that will take our jobs away, for realsies, so the objective is to generate these systems that would work for us, so we can actually get on with the living part of life. 
+
+I trained an Abacus Agent Builder on "FICA and AML" regulatory requirements in South Africa: Passed 80%plus and developed a 
+
+CrewAI pipeline that:
+transforms niche ideas into 30-day journaling PDFs—complete with curated content, organic rewrites, and lead magnets.
 
 My toolkit? **Python**, **n8n**, and LLMs like Grok studio, Chat-gpt and Claude paired with Vs-code, a knack for prompt engineering and workflow design. With a background in programming (Pascal, Delphi, VBA, SQL) and database management from the late ’90s, I think like a coder and leverage AI to bridge modern gaps, rapidly learning and deploying solutions. I’ve even built a VBA tool to streamline client management, condensing sprawling data into a single, clickable interface.
 
@@ -14,9 +21,20 @@ Because 9 out of ten times then next prompt F's it all up again and you have to 
 
 I am also finaly starting to see the code, its really cool, but LEts keep strenths to strenths. I thiink the ability to read code for vibe coding is inherently being able to spor when flow is applied wroing or inferred with a diffirent perspective than intended. An no amount of prompting is going to budge that, you have to go into the code with the crowbar and work it. 
 
- 
+ ## 🪄 Perhaps small and insignificant at first view.** **
+Started with react, then did pure python, then moved to node and flask. (Still finding the right flow)
 
-## 🚀 What I’m building
+First 3 months of 2025
+Spent 2 months learing CLI crew_ai, Python, linux re-education, Vscode, git ( Cline-coder and abaccus.ai agents ) $150usd tokens = Schoolfees at this point
+I created a Flask ap on node,js and built this >> take a look. IF there is no link here yet then I am still adventuring to get it running in Render but the free plan is quite tight so not sure ho well it will perform. (link) 
+
+This single page, is the first module in quite an extensive workflow. I am still figuring out the most logical progession of flow, and the pieces, jumping codestacks, I see my tumbnail says rainbow coder haha. But With this small project I can now say that I am the fullstack developer for this page. (grins) yes it's tiny but it works as expected( and render's free hosting is extremely light and tight). But it's llm connected keys saved in the back server, not that ther is much cap on the api haha.( That was a crazy 2 days out of my life trying to wrap my head round HTF do we go from staging to production ready in terms of storing and callin api keys. And actually getting answers from the requests. HAd a little celebration when it all came together. 
+
+**Side projects that has sprouted out of this is**. 
+a Highly efficient salespage builder(semi manual) this is more prompt engeneering, but the way I do it, there is quite a good visual designer automated. With a few questions, Producing production class landing pages have become a reality for me. Here is a collection page for some landing pages made, with my workflow. (Not taking orders at present) (Open to commissions). 
+
+
+https://coaching.innercanvascoaching.com/selections-page
 
 
 - **Intelligent Automation**: Designing workflows that think, adapt, and deliver business value.
