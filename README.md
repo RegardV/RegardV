@@ -2,7 +2,7 @@
 
 # 👋 I’m RegardV - AI-Ops Creative Systems Synthesist.
 
-I’m an **AI-Ops pioneer, things move so fast you cant really you are a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioner, everyone thinks I ma bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
+I’m an **AI-Ops pioneer, things move so fast you cant really be a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioneer, everyone thinks I am a bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
 
 **agentic workflows**, I’m passionate about automating the future( yes we are creating systems that will take our jobs away, for realsies, so the objective is to generate these systems that would work for us, so we can actually get on with the living part of life. 
 
