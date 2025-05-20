@@ -1,54 +1,48 @@
 ![GitHub Banner](https://raw.githubusercontent.com/RegardV/RegardV/main/GitHub_Banner.png)
 
-# 👋 I’m RegardV - AI-Ops Creative Systems Synthesist.
+# 👋 I’m RegardV - AI-Ops Systems Architect & Creative Automation Specialist
 
-I’m an **AI-Ops pioneer, things move so fast you cant really be a pioneer in anything for longer than a few hours. hahaha but in my section of community reachables I would be the pioneer, everyone thinks I am a bit wacked.** blending DevOps foundations with cutting-edge AI to build autonomous, intelligent systems. From spinning up Ubuntu VMs and Docker containers to orchestrating, big words, big words, I would really like to get a hold and grasp on kubernetes, that seems fun, but I honestly dont have any where to apply it projectaly.. and its too heavy in time and resources for a quick 2 night brushup. 
+I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
-**agentic workflows**, I’m passionate about automating the future( yes we are creating systems that will take our jobs away, for realsies, so the objective is to generate these systems that would work for us, so we can actually get on with the living part of life. 
+## 💻 What I Do
 
-I trained an Abacus Agent Builder on "FICA and AML" regulatory requirements in South Africa: Passed 80%plus and developed a 
+I design and deploy **agentic workflows** and intelligent automation pipelines that drive measurable outcomes. My recent projects include:
 
-CrewAI pipeline that:
-transforms niche ideas into 30-day journaling PDFs—complete with curated content, organic rewrites, and lead magnets.
+- **X Tweet Scraper (n8n Workflow)**: Built a robust workflow on my self-hosted n8n server to scrape and analyze tweets from X in real-time. *Value*: This tool enables businesses and creators to extract actionable insights from social media trends, monitor brand sentiment, and curate content for marketing campaigns, saving hours of manual effort and supporting data-driven decisions.
+- **Abacus Agent Builder**: Trained an AI agent on South Africa’s FICA and AML regulatory requirements, achieving an 80%+ pass rate.
+- **CrewAI Pipeline**: Developed a 30-day journaling PDF generator that curates content, rewrites organically, and creates lead magnets for niche audiences.
+- **Full-Stack Flask App**: Created a single-page application on Node.js and Flask, integrated with LLMs, and deployed on Render. This modular project lays the groundwork for a larger, scalable workflow.
 
-My toolkit? **Python**, **n8n**, and LLMs like Grok studio, Chat-gpt and Claude paired with Vs-code, a knack for prompt engineering and workflow design. With a background in programming (Pascal, Delphi, VBA, SQL) and database management from the late ’90s, I think like a coder and leverage AI to bridge modern gaps, rapidly learning and deploying solutions. I’ve even built a VBA tool to streamline client management, condensing sprawling data into a single, clickable interface.
+My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
 
-## 🚀 What I’m Learning -- I find myself here currently. 
-- **Agentic Systems**: "_Crafting AI crews that automate content creation, from journals to marketing campaigns._"
+## 🚀 Current Projects & Learning
 
-I spent Jan to March 2025 on Crew-ai preliminary project completed, but there are so many uncertainties. 
-Now building in Agno to a smaller more modular setup. 
+I’m continuously expanding my expertise to stay ahead in AI-Ops and automation, with a strong focus on secure and reliable practices:
 
-Vibe coding is not for the faint of heart. The main diffirence for me in embracing full vibecoding within a normal project brief, is that there is your base template code. That you guard and revere.:) And when something new works save it, and backup it! 
+- **Front-to-End Video Creator and Social Poster**: Developing an n8n-based workflow to automate video content creation, editing, and posting to social platforms, streamlining content pipelines for creators and marketers with AI-driven scripting and scheduling.
+- **AI Mail Assistant**: Building an intelligent email automation tool using n8n and LLMs to categorize, prioritize, and draft responses, enhancing productivity by reducing email overload.
+- **Agentic Systems**: Transitioning from a CrewAI project (Jan–Mar 2025) to a modular, scalable setup using Agno for content creation and marketing automation.
+- **Full-Stack Growth**: Deepening my skills in Python, Node.js, Flask, and React, while mastering CLI tools, Linux, and Git for seamless deployments.
 
-Because 9 out of ten times then next prompt F's it all up again and you have to start from base again. Chatgpt's longer memory is useless if it cant keep to a disipine. I find x.ai To be much more accurately in suquencial processing. but I will have to test some prompts on chat gpt before I can say that for certain.
+**Vibe Coding Philosophy**: I’m acutely aware of security challenges in vibe coding, such as vulnerabilities in experimental code, unsecured APIs, or misconfigured systems, which can expose projects to risks like data breaches or unauthorized access. My approach mitigates these by restricting vibe coding to learning and experimentation, ensuring that any deployment leverages official, battle-tested platforms. For example, my X Tweet Scraper and Flask app are deployed via established systems like n8n and Render, guaranteeing security and reliability. Within this secure framework, I practice vibe coding as a creative and disciplined process, iterating boldly while safeguarding base templates. My strength lies in intuitively reading code, spotting flow issues, and refactoring with precision when prompts alone aren’t enough. For learning, I embrace tools like xAI’s Grok for precise sequential processing, allowing me to focus on innovation during development while maintaining rigorous standards for production.
 
-I am also finaly starting to see the code, its really cool, but LEts keep strenths to strenths. I thiink the ability to read code for vibe coding is inherently being able to spor when flow is applied wroing or inferred with a diffirent perspective than intended. An no amount of prompting is going to budge that, you have to go into the code with the crowbar and work it. 
+## 🌟 Side Projects & Achievements
 
- ## 🪄 Perhaps small and insignificant at first view.** **
-Started with react, then did pure python, then moved to node and flask. (Still finding the right flow)
-
-First 3 months of 2025
-Spent 2 months learing CLI crew_ai, Python, linux re-education, Vscode, git ( Cline-coder and abaccus.ai agents ) $150usd tokens = Schoolfees at this point
-I created a Flask ap on node,js and built this >> take a look. IF there is no link here yet, then I am still adventuring to get it running in Render but the free plan is quite tight so not sure ho well it will perform. (link) 
-
-This single page, is the first module in quite an extensive workflow. I am still figuring out the most logical progession of flow, and the pieces, jumping codestacks, I see my tumbnail says rainbow coder haha. But With this small project I can now say that I am the fullstack developer for this page. (grins) yes it's tiny but it works as expected( and render's free hosting is extremely light and tight). But it's llm connected keys saved in the back server, not that ther is much cap on the api haha.( That was a crazy 2 days out of my life trying to wrap my head round HTF do we go from staging to production ready in terms of storing and callin api keys. And actually getting answers from the requests. HAd a little celebration when it all came together. 
-
-**Side projects that has sprouted out of this is**. 
-a Highly efficient salespage builder(semi manual) this is more prompt engeneering, but the way I do it, there is quite a good visual designer automated. With a few questions, Producing production class landing pages have become a reality for me. Here is a collection page for some landing pages made, with my workflow. (Not taking orders at present) (Open to commissions). 
-
-
-https://coaching.innercanvascoaching.com/selections-page
-
-
-- **Intelligent Automation**: Designing workflows that think, adapt, and deliver business value.
-- **AI-Ops Innovation**: Exploring scalable AI deployments to revolutionize operations.
+- **Sales Page Builder**: Engineered a semi-automated workflow that generates production-grade landing pages using prompt engineering and visual design automation. View my portfolio Landing pages selections(https://regardv.github.io/landings/). These are base templates to start working from. (Open to commissions, not currently taking orders.)
+- **n8n Server Deployment**: Successfully spun up a self-hosted n8n server to power custom automation workflows, demonstrating infrastructure management and optimization skills. The domain is managed through Cloudflare, with configurations optimized for security and protection against potential attacks, ensuring robust performance and resilience.
+- **AI-Ops Foundations**: Invested early 2025 in mastering CrewAI, Python, and Linux, with $150 in tokens as my “school fees” for hands-on learning via Cline-coder and Abacus.ai agents.
 
 ## 🔍 Staying Cutting-Edge
-I’m obsessed with staying ahead of the curve in AI-Ops. I dive into the latest advancements in LLMs, agentic frameworks, and automation tools, experimenting with emerging tech like next-gen prompt engineering and autonomous systems. By tracking industry trends and testing bleeding-edge solutions, I ensure my workflows and systems are always at the forefront of innovation.
 
-## 🌟 My Vision
-I’m working toward a platform that empowers a journaling community, driven by AI-powered content and marketing automation. Whether it’s stitching together workflows or architecting enterprise-grade pipelines, I thrive on solving complex problems with AI as my co-pilot.
+I’m dedicated to staying at the forefront of AI-Ops by exploring advancements in LLMs, agentic frameworks, and automation tools. I experiment with next-gen prompt engineering, autonomous systems, and scalable deployments, while tracking industry trends to ensure my solutions remain innovative and impactful.
+
+## 🛠️ My Vision
+
+I envision a world where intelligent automation liberates human capital from repetitive tasks, unleashing boundless potential for creativity, innovation, and connection. I’m building AI-driven systems that seamlessly handle complex workflows—whether generating personalized content, streamlining marketing pipelines, or optimizing business operations—so individuals and organizations can focus on what truly matters. With AI as my co-pilot, I’m architecting solutions that empower communities and redefine productivity, one automated system at a time.
+
+## 🤝 Let’s Connect
+
+I’m eager to collaborate on projects that push the boundaries of AI, automation, and DevOps. Reach out to explore how we can build intelligent, impactful systems together!
 
 ## 🪄 Fun Fact: I was born in Pretoria, South Africa—the same hometown as Elon Musk. It’s a quirky coincidence that fuels my drive to push boundaries and dream big in the world of AI-Ops!
 
