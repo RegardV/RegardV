@@ -92,7 +92,7 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 - **[CourseCraft-Crew](https://github.com/RegardV/CourseCraftCrew)**  
   ![Workflow Status](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)  
   An AI-powered platform using **CrewAI** and the **xAI API** to automate self-help course creation—like “Journaling for Anxiety.” Still in development, it’s my proving ground for agent-driven content generation, from research to polished PDFs—destined for platforms like Gumroad.  
-  - **What’s Done:** **Phase 1 is complete**, Outputting a complete PDF 
+  - ✅**What’s Done:** **Phase 1 is complete**, Outputting a complete PDF 
   - **Next Up:** Testing Phase 2, Having said pdf final with images integrated.
   - **Line-up:** Generating Audio, video, to accompany the project. 
 
@@ -103,7 +103,7 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 - **[Janusvision](https://github.com/RegardV/Janusvision)**  
   **(Paused)**<br>
   A Dockerized web app running **Janus-Pro-7B** from DeepSeek, featuring a Gradio UI for text-to-image generation and image-based insights. Built with GPU acceleration on an Ubuntu KVM with passthroughs and VRAM spillover for an 8GB RTX 4070 (mobile), it’s a solid proof-of-concept for multimodal AI—now on the backburner.  
-  - **What’s Done:** Deployed a functional app with CUDA support, optimized builds with caching, and enabled LAN access for testing.  
+  - ✅**What’s Done:** Deployed a functional app with CUDA support, optimized builds with caching, and enabled LAN access for testing.  
   - **Next Up :** Tuning performance, expanding features (e.g., text-only queries), and refining the UI—on hold to focus on agentic systems.  
 
 <!-- Tip as a comment for you -->
