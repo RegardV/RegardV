@@ -92,7 +92,7 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 - **[CourseCraft-Crew](https://github.com/RegardV/CourseCraftCrew)**  
   ![Workflow Status](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)  
   An AI-powered platform using **CrewAI** and the **xAI API** to automate self-help course creation—like “Journaling for Anxiety.” Still in development, it’s my proving ground for agent-driven content generation, from research to polished PDFs—destined for platforms like Gumroad.  
-  - **What’s Done:** Phase 1 is complete, Outputting a complete PDF 
+  - **What’s Done:** **Phase 1 is complete**, Outputting a complete PDF 
   - **Next Up:** Testing Phase 2, Having said pdf final with images integrated.
   - **Line-up:** Generating Audio, video, to accompany the project. 
 
