@@ -65,7 +65,30 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 <!-- Projects Section: Your updates with minor polish -->
 ## 🚀 Current Projects
 
-### Agentic Workflow: CourseCraft Crew
+### n8n Automation Workflows
+
+- **X Tweet Scraper**  (complete)
+  [![Workflow Status](https://img.shields.io/badge/status-active-brightgreen)](https://github.com/RegardV/XTweetScraper)  
+  A robust workflow running on my self-hosted **n8n** server to scrape and analyze tweets from X in real-time. This tool empowers businesses and creators to extract actionable insights from social media trends, monitor brand sentiment, and curate content for marketing campaigns, saving hours of manual effort.  
+  - **What’s Done:** Fully functional scraper with real-time data processing and analysis.  
+  - **Next Up:** Integrating advanced sentiment analysis and automated report generation.  
+  - **Line-up:** Expanding to multi-platform scraping (e.g., other social media APIs).
+
+- **Front-to-End Video Creator and Social Poster** (Next)
+  [![Workflow Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/RegardV/VideoCreator)  
+  An **n8n**-based workflow designed to automate video content creation, editing, and posting to social platforms. Leveraging **LLMs** for AI-driven scripting and scheduling, this project streamlines content pipelines for creators and marketers, aiming for seamless, end-to-end automation.  
+  - **What’s Done:** Initial workflow for script generation and basic video assembly.  
+  - **Next Up:** Integrating automated editing tools and multi-platform posting logic.  
+  - **Line-up:** Adding analytics to track video performance and optimize posting schedules.
+
+- **AI Mail Assistant** (next next)
+  [![Workflow Status](https://img.shields.io/badge/status-in%20progress-yellow)](https://github.com/RegardV/AIMailAssistant)  
+  An intelligent email automation tool built on **n8n** and **LLMs** to categorize, prioritize, and draft responses. This workflow enhances productivity by reducing email overload, offering a smart, scalable solution for individuals and teams.  
+  - **What’s Done:** Core functionality for email categorization and prioritization.  
+  - **Next Up:** Refining AI-driven response drafting with context-aware prompts.  
+  - **Line-up:** Implementing integration with popular email clients (e.g., Gmail, Outlook).
+
+### Agentic Workflow: CourseCraft Crew (backburner now)
 - **[CourseCraft-Crew](https://github.com/RegardV/CourseCraftCrew)**  
   ![Workflow Status](https://github.com/RegardV/CourseCraftCrew/actions/workflows/main.yml/badge.svg)  
   An AI-powered platform using **CrewAI** and the **xAI API** to automate self-help course creation—like “Journaling for Anxiety.” Still in development, it’s my proving ground for agent-driven content generation, from research to polished PDFs—destined for platforms like Gumroad.  
@@ -76,7 +99,7 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 <!-- Tip as a comment for you -->
 <!-- Tip: Your repo is live—keep pushing code to show progress! -->
 
-### Local Multimodal LLM: Janusvision
+### Local Multimodal LLM: Janusvision (backburner now)
 - **[Janusvision](https://github.com/RegardV/Janusvision)**  
   **(Paused)**<br>
   A Dockerized web app running **Janus-Pro-7B** from DeepSeek, featuring a Gradio UI for text-to-image generation and image-based insights. Built with GPU acceleration on an Ubuntu KVM with passthroughs and VRAM spillover for an 8GB RTX 4070 (mobile), it’s a solid proof-of-concept for multimodal AI—now on the backburner.  
