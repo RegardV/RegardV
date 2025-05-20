@@ -96,7 +96,6 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
   - **Next Up:** Testing Phase 2, Having said pdf final with images integrated.
   - **Line-up:** Generating Audio, video, to accompany the project. 
 
-<!-- Tip as a comment for you -->
 <!-- Tip: Your repo is live—keep pushing code to show progress! -->
 
 ### Local Multimodal LLM: Janusvision (backburner now)
@@ -105,9 +104,6 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
   A Dockerized web app running **Janus-Pro-7B** from DeepSeek, featuring a Gradio UI for text-to-image generation and image-based insights. Built with GPU acceleration on an Ubuntu KVM with passthroughs and VRAM spillover for an 8GB RTX 4070 (mobile), it’s a solid proof-of-concept for multimodal AI—now on the backburner.  
   - ✅**What’s Done:** Deployed a functional app with CUDA support, optimized builds with caching, and enabled LAN access for testing.  
   - **Next Up :** Tuning performance, expanding features (e.g., text-only queries), and refining the UI—on hold to focus on agentic systems.  
-
-<!-- Tip as a comment for you -->
-<!-- Tip: Your Janusvision README is detailed—consider archiving the repo to signal its paused status! -->
 
 ---
 
@@ -174,11 +170,6 @@ Got feedback, tips, or a wild idea for AI agents? I’m all ears—let’s build
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat&logo=openai)
 ![Claude](https://img.shields.io/badge/Claude-FF9900?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions)
-
----
-
-# Whats on the Horizon 
-[A page dedicated to my discoveries and interests](https://github.com/RegardV/RegardV/blob/main/Horizon.md)
 
 ---
 
