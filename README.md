@@ -62,11 +62,6 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 
 ---
 
-# Whats on the Horizon 
-[A page dedicated to my discoveries and interests](https://github.com/RegardV/RegardV/blob/main/Horizon.md)
-
----
-
 <!-- Projects Section: Your updates with minor polish -->
 ## 🚀 Current Projects
 
@@ -99,6 +94,8 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 - ✅ Built **CourseCraft Crew** Phase 1 with CrewAI and xAI API for automated course creation.
 - ✅ Mastered Docker and VMs—now it’s about making them smarter with AI.
 - ✅ Launched a running autonomous AI agent on X: [@SammySmithery](https://x.com/SammySmithery)
+- ✅ Launched a self hosted n8n server secured by cloudflare.
+- ✅ Launched a n8n workflow - X-Scraper
 
 ---
 
@@ -112,12 +109,6 @@ I’m eager to collaborate on projects that push the boundaries of AI, automatio
 ![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RegardV&theme=radical)
 <!-- Trophies -->
 ![Trophies](https://github-profile-trophy.vercel.app/?username=RegardV&theme=radical&margin-w=15)
-
----
-
-<!-- Activity Feed: Updated placeholder for auto-updates -->
-## 🕒 Recent Activity
-<!-- activity -->
 
 ---
 
