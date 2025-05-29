@@ -1,4 +1,3 @@
-![GitHub Banner](https://raw.githubusercontent.com/RegardV/RegardV/main/GitHub_Banner.png)
 # 👋 I’m RegardV - AI-Ops(Workflow Engineer), Dev-Ops, Front-End
 Web3 Ethusiast
 
