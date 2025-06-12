@@ -10,7 +10,7 @@ I design and deploy **agentic workflows** and intelligent automation pipelines t
 - **X Tweet Scraper (n8n Workflow)**: Built a robust workflow on my self-hosted n8n server to scrape and analyze tweets from X in real-time. *Value*: This tool enables businesses and creators to extract actionable insights from social media trends, monitor brand sentiment, and curate content for marketing campaigns, saving hours of manual effort and supporting data-driven decisions.
 - **Abacus Agent Builder**: Trained an AI agent on South Africa’s FICA and AML regulatory requirements, achieving an 80%+ pass rate.
 - **CrewAI Pipeline**: Developed a 30-day journaling PDF generator that curates content, rewrites organically, and creates lead magnets for niche audiences.
-- **Full-Stack Flask App**: Created a single-page application on Node.js and Flask, integrated with LLMs, and deployed on Render. This modular project lays the groundwork for a larger, scalable workflow.
+- **Full-Stack FastAPI **: Created a single-page application on Node.js and Flask, integrated with LLMs, and deployed on Render. This modular project lays the groundwork for a larger, scalable workflow.
 
 My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
 
