@@ -1,5 +1,5 @@
-# 👋 I’m RegardV - AI-Ops(Workflow Engineer), Dev-Ops, Front-End
-Web3 Ethusiast - Just Built a Frontend for Fractional Property Ownership for a Client. 
+# 👋 I’m RegardV - AI Perpetual Student. 
+AI Enthusiast, Workflows, Automations, Learning and Building. 
 
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
