@@ -1,17 +1,1 @@
-name: Update README Activity
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Runs every 6 hours
-  workflow_dispatch: # Allows manual trigger
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: "Update recent activity"
-          MAX_LINES: "5" # Limits to 5 recent events
-          START_SECTION: "activity" # Matches <!-- activity -->
+
