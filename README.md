@@ -4,13 +4,15 @@ AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a m
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
 ## 💻 What I Do
-
-I design and deploy **agentic workflows** and intelligent automation pipelines that drive measurable outcomes. My recent projects include:
-
-- **X Tweet Scraper (n8n Workflow)**: Built a robust workflow on my self-hosted n8n server to scrape and analyze tweets from X in real-time. *Value*: This tool enables businesses and creators to extract actionable insights from social media trends, monitor brand sentiment, and curate content for marketing campaigns, saving hours of manual effort and supporting data-driven decisions.
-- **Abacus Agent Builder**: Trained an AI agent on South Africa’s FICA and AML regulatory requirements, achieving an 80%+ pass rate.
-- **CrewAI Pipeline**: Developed a 30-day journaling PDF generator that curates content, rewrites organically, and creates lead magnets for niche audiences.
-- **Full-Stack FastAPI **: Created a single-page application on Node.js and Flask, integrated with LLMs, and deployed on Render. This modular project lays the groundwork for a larger, scalable workflow.
+I just completed building AI-studio its a docker environment running:
+* n8n
+* ComfyUI
+* kokoro TTS
+* FFCreator
+* ngix
+* postgres
+* redis
+Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this (RTX Meomory Manager)[https://github.com/RegardV/rtx-gpu-memory-manager] to help with memory on the RTX
 
 My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
 
