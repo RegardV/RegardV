@@ -4,7 +4,7 @@ AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a m
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
 ## 💻 What I Do
-I just completed building AI-studio its a docker environment running: The Studio will evolve but this is the starting point.
+I just completed building AI-studio its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
 * n8n
 * ComfyUI
 * kokoro TTS
@@ -13,7 +13,7 @@ I just completed building AI-studio its a docker environment running: The Studio
 * postgres
 * redis
 
-Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this: 
+Due to running on a 12 core xeon 32 gb ram and RTX 3080 10gb I wrote this: 
 .[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) 
 to help with memory on the RTX
 
