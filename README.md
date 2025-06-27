@@ -12,7 +12,7 @@ I just completed building AI-studio its a docker environment running:
 * ngix
 * postgres
 * redis
-Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this (RTX Meomory Manager)[https://github.com/RegardV/rtx-gpu-memory-manager] to help with memory on the RTX
+Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this .[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) to help with memory on the RTX
 
 My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
 
