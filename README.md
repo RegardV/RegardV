@@ -4,7 +4,7 @@ AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a m
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
 ## 💻 What I Do
-I just completed building AI-studio its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
+I just completed building V1 AI-studio its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
 * n8n
 * ComfyUI
 * kokoro TTS
@@ -18,17 +18,6 @@ Due to running on a 12 core xeon 32 gb ram and RTX 3080 10gb I wrote this:
 to help with memory on the RTX
 
 My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
-
-## 🚀 Current Projects & Learning
-
-I’m continuously expanding my expertise to stay ahead in AI-Ops and automation, with a strong focus on secure and reliable practices:
-
-- **Front-to-End Video Creator and Social Poster**: Developing an n8n-based workflow to automate video content creation, editing, and posting to social platforms, streamlining content pipelines for creators and marketers with AI-driven scripting and scheduling.
-- **AI Mail Assistant**: Building an intelligent email automation tool using n8n and LLMs to categorize, prioritize, and draft responses, enhancing productivity by reducing email overload.
-- **Agentic Systems**: Transitioning from a CrewAI project (Jan–Mar 2025) to a modular, scalable setup using Agno for content creation and marketing automation.
-- **Full-Stack Growth**: Deepening my skills in Python, Node.js, Flask, and React, while mastering CLI tools, Linux, and Git for seamless deployments.
-
-**Vibe Coding Philosophy**: I’m acutely aware of security challenges in vibe coding, such as vulnerabilities in experimental code, unsecured APIs, or misconfigured systems, which can expose projects to risks like data breaches or unauthorized access. My approach mitigates these by restricting vibe coding to learning and experimentation, ensuring that any deployment leverages official, battle-tested platforms. For example, my X Tweet Scraper and Flask app are deployed via established systems like n8n and Render, guaranteeing security and reliability. Within this secure framework, I practice vibe coding as a creative and disciplined process, iterating boldly while safeguarding base templates. My strength lies in intuitively reading code, spotting flow issues, and refactoring with precision when prompts alone aren’t enough. For learning, I embrace tools like xAI’s Grok for precise sequential processing, allowing me to focus on innovation during development while maintaining rigorous standards for production.
 
 ## 🌟 Side Projects & Achievements
 
