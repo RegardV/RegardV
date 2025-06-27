@@ -12,7 +12,10 @@ I just completed building AI-studio its a docker environment running:
 * ngix
 * postgres
 * redis
-Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this .[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) to help with memory on the RTX
+
+Due to running on a 12 core xeopn 32 gb ram and RTX 3080 10gb I wrote this: 
+.[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) 
+to help with memory on the RTX
 
 My toolkit spans **Python**, **n8n**, **VS Code**, and LLMs like Grok, ChatGPT, and Claude, enhanced by advanced prompt engineering and workflow design. With a programming foundation in Pascal, Delphi, VBA, and SQL from the late ’90s, I combine a coder’s rigor with modern AI to rapidly learn, adapt, and implement solutions. A past highlight includes a VBA-based client management tool that transformed complex data into a user-friendly, clickable interface.
 
@@ -28,6 +31,9 @@ I’m continuously expanding my expertise to stay ahead in AI-Ops and automation
 **Vibe Coding Philosophy**: I’m acutely aware of security challenges in vibe coding, such as vulnerabilities in experimental code, unsecured APIs, or misconfigured systems, which can expose projects to risks like data breaches or unauthorized access. My approach mitigates these by restricting vibe coding to learning and experimentation, ensuring that any deployment leverages official, battle-tested platforms. For example, my X Tweet Scraper and Flask app are deployed via established systems like n8n and Render, guaranteeing security and reliability. Within this secure framework, I practice vibe coding as a creative and disciplined process, iterating boldly while safeguarding base templates. My strength lies in intuitively reading code, spotting flow issues, and refactoring with precision when prompts alone aren’t enough. For learning, I embrace tools like xAI’s Grok for precise sequential processing, allowing me to focus on innovation during development while maintaining rigorous standards for production.
 
 ## 🌟 Side Projects & Achievements
+
+-**RTX GPU Memory Manager**: Built and open-sourced a comprehensive GPU memory management system for the RTX community. The project addresses common memory leak issues in ComfyUI, Kokoro TTS, and other AI applications through intelligent automation and safety-first design. Features include multiple configuration profiles, extensive documentation, GitHub Actions CI/CD, and professional issue templates for community contributions. The MIT-licensed solution has grown to include 34+ files, comprehensive testing, and supports all RTX 30/40 series GPUs: RTX GPU Memory Manager. [RTX GPU Memory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) 
+***(Closed off this project focusing on AI automations and Agentic workflows going forward)***
 
 - **Sales Page Builder**: Engineered a semi-automated workflow that generates production-grade landing pages using prompt engineering and visual design automation. A selection of base templates for landing pages a good point to start from, Promt engineering made these possible, not perfect, but its 80% there, and takes 5-7 minutes each: [InkyPyrus Landing pages](https://regardv.github.io/landings/). (Open to commissions, not currently taking orders.)
 - **n8n Server Deployment**: Successfully spun up a self-hosted n8n server to power custom automation workflows, demonstrating infrastructure management and optimization skills. The domain is managed through Cloudflare, with configurations optimized for security and protection against potential attacks, ensuring robust performance and resilience.
