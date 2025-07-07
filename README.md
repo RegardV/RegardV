@@ -12,9 +12,6 @@ I just completed building V1 [AI-studio-Video Pipleline](https://github.com/Rega
 * ngix
 * postgres
 * redis
- ## Next phase planning - Implement kareyoke style subtitle display.
- Subtitle display with word highlighting and configurable options. [Implementation Technical write up]()
-
 
 Due to running on a 12 core xeon 32 gb ram and RTX 3080 10gb I wrote this: 
 .[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) 
