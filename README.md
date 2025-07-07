@@ -4,14 +4,17 @@ AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a m
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
 ## 💻 What I Do
-I just completed building V1 [AI-studio-Video Pipleline](https://github.com/RegardV/n8n-ai-studio) its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
+I just completed building V1 [AI-studio-Video Pipleline](https://github.com/RegardV/n8n-ai-studio) its a docker environment (The Studio will evolve but this is the starting point.) currently running the following containers:
 * n8n
 * ComfyUI
-* kokoro TTS
-* FFCreator
+* kokoro TTS - Marked for upgrade to [chatterbox](https://github.com/resemble-ai/chatterbox) [Replacing technical writeup]()
+* FFCreator - With custom built [Native javascript Video-templating]([https://github.com/RegardV/n8n-ai-studio-video-pipeline/blob/main/README.md](https://github.com/RegardV/n8n-ai-studio-video-pipeline/blob/main/docs/FFcreator-Phase2.md)) solution for n8n. 
 * ngix
 * postgres
 * redis
+ ## Next phase planning - Implement kareyoke style subtitle display.
+ Subtitle display with word highlighting and configurable options. [Implementation Technical write up]()
+
 
 Due to running on a 12 core xeon 32 gb ram and RTX 3080 10gb I wrote this: 
 .[RTX Meomory Manager](https://github.com/RegardV/rtx-gpu-memory-manager) 
