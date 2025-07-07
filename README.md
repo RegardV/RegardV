@@ -4,7 +4,7 @@ AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a m
 I’m a driven **AI-Ops innovator** who fuses DevOps principles with cutting-edge AI to craft intelligent, autonomous systems. With a passion for streamlining complex challenges into efficient workflows, I excel at blending code, automation, and creativity to deliver impactful solutions. My mission is to build systems that empower businesses and communities by automating repetitive tasks and unlocking human potential.
 
 ## 💻 What I Do
-I just completed building V1 [AI-studio](https://github.com/RegardV/n8n-ai-studio) its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
+I just completed building V1 [AI-studio-Video Pipleline](https://github.com/RegardV/n8n-ai-studio) its a docker environment (The Studio will evolve but this is the starting point.) currently running: 
 * n8n
 * ComfyUI
 * kokoro TTS
