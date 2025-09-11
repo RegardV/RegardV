@@ -9,7 +9,7 @@ I just completed building V1 [AI-studio-Video Pipleline](https://github.com/Rega
  its a docker environment (The Studio will evolve but this is the starting point.) currently running the following containers:
 * n8n
 * ComfyUI
-* Chatterbox in anf kokorro out 
+* Chatterbox in and kokorro out 
 * FFcreator Out - Remotion In 
 * ngix
 * postgres
