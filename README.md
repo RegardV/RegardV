@@ -1,5 +1,5 @@
 # 👋 I’m Regard, and I build solutions.
-AI Enthusiast, Workflows, Automations, FastApi, Go High Level, Blockchain(to a much lesser extent).. Learning and Building. 
+AI Enthusiast, Better Processes, Automations, FastApi, Go High Level, Blockchain(to a much lesser extent).. Learning and Building. 
 
 ## 💻 What I am Doing
 Im Fine tuning a docker AI studio setup to run on my local machine Xeon 2350V3 12 core 64gb ram and rtx 3090
