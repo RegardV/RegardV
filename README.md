@@ -19,7 +19,7 @@ Single script, OpenSpec enforcement, drift detection, PR-Agent reviews, human-in
 
 ### Local stack I run daily
 Docker
-n8n | ComfyUI | Remotion | Chatterbox-TTS | Postiz | SimAI (setting up) | Nginx | Postgres | Redis  
+n8n | ComfyUI | Remotion | Chatterbox-TTS(basic as full requires ASX on CPU) | Postiz | Nginx | Postgres | Redis | Postgres 
 Hardware: Xeon E3 + 64 GB RAM + RTX 3090
 
 ### Focus areas
