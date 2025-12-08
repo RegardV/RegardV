@@ -1,4 +1,4 @@
-# 👋 I'm Regard – Self-Taught AI Workflow Engineer (Cape Town)
+# 👋 I'm Regard – Self-Taught AI Workflow Engineer (Pretoria)
 
 Started my serious AI journey **January 2025** – in less than 12 months I’ve gone from zero to shipping real production systems on local hardware.
 
