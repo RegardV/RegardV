@@ -1,32 +1,30 @@
-# 👋 I’m Regard, and I build solutions.
-AI Enthusiast, Better Processes, Automations, FastApi, Go High Level, Blockchain(to a much lesser extent).. Learning and Building. 
+# 👋 I'm Regard – Self-Taught AI Workflow Engineer (Cape Town)
 
-## 💻 What I am Doing
-Im Fine tuning a docker AI studio setup to run on my local machine Xeon 2350V3 12 core 64gb ram and rtx 3090
-It ended up beinge called n8n -ai studio but now that might be redundant as I am looking at moving over to [simai](https://docs.sim.ai/introduction)
+Started my serious AI journey **January 2025** – in less than 12 months I’ve gone from zero to shipping real production systems on local hardware.
 
-Currently running the following containers:
-* [n8n ](https://github.com/n8n-io/n8n)
-* [ComfyUI](https://github.com/Comfy-Org/ComfyUI-Manager)
-* [Chatterbox-tts](https://github.com/devnen/Chatterbox-TTS-Server) But looking into https://github.com/petermg/Chatterbox-TTS-Extended
-* [Remotion](https://github.com/remotion-dev/remotion) 
-* [Postiz](https://github.com/gitroomhq/postiz-app)
-* [Simai (Still setting this one up not 100% Functional yet) ](https://github.com/simstudioai/sim)
+### What I actually ship and run today
 
-* ngix
-* postgres
-* redis
+**Shorts Factory** – 70+ videos live across YouTube, Instagram, TikTok, X  
+• v1 (Apr–Oct 2025): self-hosted n8n + GPT-4 + Runware + Creatomate + Blotato – fully hands-off production  
+• Current rebuild (active, 85–90 % local): n8n → ComfyUI → Remotion → Chatterbox-TTS → Postiz  
+  Live demo running 24/7 from my garage: https://postiz.realandworks.com
 
-## 🔍 Staying Cutting-Edge
+**Claude Autonomous Coding Team** – zero-cloud senior dev squad  
+Single script, OpenSpec enforcement, drift detection, PR-Agent reviews, human-in-the-loop gates
 
-I’m dedicated to staying at the forefront of AI-Ops by exploring advancements in LLMs, agentic frameworks, and automation tools. I experiment with next-gen prompt engineering, autonomous systems, and scalable deployments, while tracking industry trends to ensure my solutions remain innovative and impactful.
+**CrewAI Projects**  
+• 30-day PDF writing journal generator (CLI complete, frontend in progress)  
+• Hummingbot trading manager  
+• Family finance tracker (bank-statement parsing & budgeting)
 
-## 🤝 Let’s Connect
+### Local stack I run daily
+Docker
+n8n | ComfyUI | Remotion | Chatterbox-TTS | Postiz | SimAI (setting up) | Nginx | Postgres | Redis  
+Hardware: Xeon E3 + 64 GB RAM + RTX 3090
 
-I’m eager to collaborate on projects that push the boundaries of AI, automation, and DevOps. Reach out to explore how we can build intelligent, impactful systems together!
+### Focus areas
+Agentic workflows · Sovereign / privacy-first AI · LLM Ops · Prompt engineering · Local inference · Cost & compliance control
 
-## 🪄 Fun Fact: I was born in Pretoria, South Africa—the same hometown as Elon Musk. It’s a quirky coincidence that fuels my drive to push boundaries and dream big in the world of AI-Ops!
+Open to collaborations on production-grade agentic systems and ethical automation.
 
-
-ARCHIVE:
-(some time ago)I just completed building V1 [AI-studio-Video Pipleline](https://github.com/RegardV/n8n-ai-home-content-studio) I am keeping this as a rememberance but I will post a new one this old one is nonsense. so many broken things)
+Pretoria-born (yes, same as Elon – the coincidence keeps me ambitious).
