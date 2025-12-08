@@ -7,7 +7,7 @@ Started my serious AI journey **January 2025** – in less than 12 months I’ve
 **Shorts Factory** – 70+ videos live across YouTube, Instagram, TikTok, X  
 • v1 (Apr–Oct 2025): self-hosted n8n + GPT-4 + Runware + Creatomate + Blotato – fully hands-off production  
 • Current rebuild (active, 85–90 % local): n8n → ComfyUI → Remotion → Chatterbox-TTS → Postiz  
-  Live demo running 24/7 from my garage: https://postiz.realandworks.com
+  Live demo running from my garage(when its on: Business Hours Gmt+2) : https://postiz.realandworks.com 
 
 **Claude Autonomous Coding Team** – zero-cloud senior dev squad  
 Single script, OpenSpec enforcement, drift detection, PR-Agent reviews, human-in-the-loop gates
