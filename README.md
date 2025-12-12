@@ -102,8 +102,8 @@ Running production AI systems from my garage. Proving you don't need SF rent or 
 
 If you're tackling problems where **data sovereignty, cost control, and production reliability** aren't negotiable – let's talk.
 
-→ [Your contact method]  
-→ [LinkedIn/Twitter/etc.]
+→ [[www.realandworks.com] ](https://www.realandworks.com/) 
+→ [[Linked-In]](https://www.linkedin.com/in/regard-vermeulen/)
 
 ---
 
