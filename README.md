@@ -14,7 +14,7 @@
 - Full pipeline: n8n → ComfyUI → Remotion → Chatterbox-TTS → Postiz
 - Running 24/7 from Pretoria on Xeon E3 + RTX 3090
 
-→ [**Live Dashboard**](https://postiz.realandworks.com) (Business hours GMT+2)
+→ [**Personal Dashboard**]([Personal Development Roadmap](https://www.realandworks.com/digitatwins)) (Business hours GMT+2)
 
 **Business Impact**: Scaled content production from 0 to 70+ pieces while eliminating $500+/month in API costs
 
