@@ -21,6 +21,7 @@
 ---
 
 ### **Claude Autonomous Coding Team** – Zero-Cloud Dev Squad
+[see here](https://github.com/RegardV/LegendaryTeam_For_Claude)
 Senior-level development pipeline with **zero external dependencies**:
 - OpenSpec enforcement for consistency
 - Automated drift detection & PR-Agent reviews  
