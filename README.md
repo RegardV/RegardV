@@ -5,12 +5,13 @@
 
 ### Released:
 
- [Legendary AI coding team for claude. ](https://github.com/RegardV/LegendaryTeam_For_Claude)
- [Md to pdf](https://github.com/RegardV/Enhanced-Markdown-to-PDF) really neat md to pdf converter
+ 1.[Legendary AI coding team for claude. ](https://github.com/RegardV/LegendaryTeam_For_Claude)
+ 
+ 2.[Md to pdf](https://github.com/RegardV/Enhanced-Markdown-to-PDF) really neat md to pdf converter
 
 ### Work in Progress: (backburner)
 
-[Journal craft Crew ](https://github.com/RegardV/JournalCraftCrew)
+3.[Journal craft Crew ](https://github.com/RegardV/JournalCraftCrew)
 
 # 2026
 ## **Devops** | With long term focus on AI/ML Ops
