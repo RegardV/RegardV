@@ -3,12 +3,12 @@
 # 2025
 ## AI Workflow Engineer** | Shipping autonomous content factories & agentic dev teams
 
-###Released:
+### Released:
 
  [Legendary AI coding team for claude. ](https://github.com/RegardV/LegendaryTeam_For_Claude)
  [Md to pdf](https://github.com/RegardV/Enhanced-Markdown-to-PDF) really neat md to pdf converter
 
-###Work in Progress: (backburner)
+### Work in Progress: (backburner)
 
 [Journal craft Crew ](https://github.com/RegardV/JournalCraftCrew)
 
