@@ -11,19 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/InkyPyrus_PubCo"><img src="https://img.shields.io/twitter/follow/InkyPyrus_PubCo?style=social" alt="Twitter"/></a>
-  <!-- Add links/badges for other socials -->
+  <a href="https://twitter.com/InkyPyrus_PubCo"><img src="https://img.shields.io/twitter/follow/InkyPyrus_PubCo?style=social" alt="X"/></a>
+  <a href="https://www.linkedin.com/in/regard-vermeulen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
 ### 🚀 Tech Stack
 - **Languages**: Python, Bash
-- **Tools**: Docker, Kubernetes, Terraform (add yours)
+- **Tools**: Docker, Kubernetes
+- **Automation Tools** n8n, CrewAi, OpenClaw
+- **CRM** Go High Level 
+- **Operating Systems**: Linux (Ubuntu Desktop, Ubuntu Server, Arch Linux)
 - **Focus**: AI Workflows, MLOps
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RegardV&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RegardV&theme=radical" alt="Streak Stats"/>
+  <img src="https://your-stats.vercel.app/api?username=RegardV&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://your-streaks.vercel.app?user=RegardV&theme=radical" alt="Streak Stats"/>
 </p>
 
 # 2026
@@ -43,6 +46,6 @@ Pivoting to Infrastructure and deep-diving into DEVOPS.
 
 ### 📫 Connect With Me
 - X: [@InkyPyrus_PubCo](https://twitter.com/InkyPyrus_PubCo)
-- Email: your.email@example.com
+- LinkedIn: [Regard Vermeulen](https://www.linkedin.com/in/regard-vermeulen/)
 
 <p align="center">Thanks for visiting! 🌟</p>
