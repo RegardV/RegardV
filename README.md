@@ -23,12 +23,6 @@
 - **Operating Systems**: Linux (Ubuntu Desktop, Ubuntu Server, Arch Linux)
 - **Focus**: AI Workflows, MLOps
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://your-stats.vercel.app/api?username=RegardV&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://your-streaks.vercel.app?user=RegardV&theme=radical" alt="Streak Stats"/>
-</p>
-
 # 2026
 ## **DevOps** | Long-Term Focus on AI/ML Ops
 Pivoting to Infrastructure and deep-diving into DEVOPS.
