@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://your-gif-or-image-url.gif](https://github.com/RegardV/RegardV/blob/main/welcome.png)" alt="Welcome png" width="300"/>
+  <img src="https://raw.githubusercontent.com/RegardV/RegardV/refs/heads/main/welcome.png" alt="Welcome png" width="300"/>
 </p>
 
 <h1 align="center">Regard Vermeulen | Always Learning</h1>
