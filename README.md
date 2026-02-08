@@ -30,7 +30,9 @@ Pivoting to Infrastructure and deep-diving into DEVOPS.
 
 # 2025
 ## **AI Workflow Engineer** | Shipping Autonomous Content Factories & Agentic Dev Teams
-### Released:1. [Legendary AI Coding Team for Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) Updated 08/02/26 
+### Released:
+
+1. [Legendary AI Coding Team for Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) Updated 08/02/26 
 2. [Md to PDF(https://github.com/RegardV/Enhanced-Markdown-to-PDF) - Neat MD to PDF converter
 
 ### Work in Progress (Backburner):
