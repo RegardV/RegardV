@@ -34,7 +34,7 @@ Pivoting to Infrastructure and deep-diving into DEVOPS.
 ### Released:
 
 1. [Legendary AI Coding Team for Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) Updated 08/02/26 
-2. [Md to PDF(https://github.com/RegardV/Enhanced-Markdown-to-PDF) - Neat MD to PDF converter
+2. [Md to PDF](https://github.com/RegardV/Enhanced-Markdown-to-PDF) - Neat MD to PDF converter
 
 ### Work in Progress (Backburner):
 3. [Journal Craft Crew](https://github.com/RegardV/JournalCraftCrew)
