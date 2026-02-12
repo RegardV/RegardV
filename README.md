@@ -27,7 +27,7 @@
 ## **DevOps** | Long-Term Focus on AI/ML Ops
 Pivoting to Infrastructure and deep-diving into DEVOPS.
 1. [Homelab] (still private repo)
-2. [LegendarySetupKeys].(https://github.com/RegardV/LegendarySetupKeys.git)
+2. (LegendarySetupKeys).[https://github.com/RegardV/LegendarySetupKeys.git] - Easy API key Switching for claude cli 
 
 # 2025
 ## **AI Workflow Engineer** | Shipping Autonomous Content Factories & Agentic Dev Teams
