@@ -44,4 +44,7 @@ Pivoting to Infrastructure and deep-diving into DEVOPS.
 - X: [@InkyPyrus_PubCo](https://twitter.com/InkyPyrus_PubCo)
 - LinkedIn: [Regard Vermeulen](https://www.linkedin.com/in/regard-vermeulen/)
 
+# 2024 DES
+## **CAREER PIVOT FROM FINANCE
+
 <p align="center">Thanks for visiting! 🌟</p>
