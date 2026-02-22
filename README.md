@@ -18,7 +18,7 @@
 ### 🚀 Tech Stack
 - **Languages**: Python, Bash
 - **Tools**: Docker, Kubernetes
-- **Automation Tools** n8n, CrewAi, OpenClaw
+- **Automation Tools** n8n, CrewAi, Nanobot
 - **CRM** Go High Level 
 - **Operating Systems**: Linux (Ubuntu Desktop, Ubuntu Server, Arch Linux)
 - **Focus**: AI Workflows, MLOps
