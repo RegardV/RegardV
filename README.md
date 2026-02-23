@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Regard Vermeulen | Always Learning</h1>
-<p align="center">DevOps Engineer Pivoting to AI/ML Ops | Building Autonomous Content Factories & Agentic Teams</p>
+<p align="center">DevOps Engineer Pivoting to AI/ML Ops | Building Autonomous Agentic Teams</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pretoria-blue" alt="Location"/>
   <img src="https://img.shields.io/badge/Tech-DevOps%20|%20AI/ML-orange" alt="Tech"/>
