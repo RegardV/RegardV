@@ -2,12 +2,13 @@
   <img src="https://raw.githubusercontent.com/RegardV/RegardV/refs/heads/main/welcome.png" alt="Welcome png" width="300"/>
 </p>
 
-<h1 align="center">Regard Vermeulen | Always Learning</h1>
-<p align="center">DevOps Engineer Pivoting to AI/ML Ops | Building Autonomous Agentic Teams</p>
+<h1 align="center">Regard Vermeulen | Building Autonomous AI Operations</h1>
+<p align="center">Infrastructure &amp; AI/ML Ops Engineer — I build self-hosted, multi-agent systems that run real businesses.</p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Pretoria-blue" alt="Location"/>
-  <img src="https://img.shields.io/badge/Tech-DevOps%20|%20AI/ML-orange" alt="Tech"/>
-  <!-- Add more badges from shields.io -->
+  <img src="https://img.shields.io/badge/Location-Pretoria,%20ZA-blue" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Self--Hosted%20AI-orange" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Building-Multi--Agent%20Systems-8A2BE2" alt="Multi-Agent"/>
+  <img src="https://img.shields.io/badge/Infra-DevOps-2496ED" alt="DevOps"/>
 </p>
 
 <p align="center">
@@ -15,36 +16,55 @@
   <a href="https://www.linkedin.com/in/regard-vermeulen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
-### 🚀 Tech Stack
-- **Languages**: Python, Bash
-- **Tools**: Docker, Kubernetes
-- **Automation Tools** n8n, CrewAi, Nanobot
-- **CRM** Go High Level 
-- **Operating Systems**: Linux (Ubuntu Desktop, Ubuntu Server, Arch Linux)
-- **Focus**: AI Workflows, MLOps
+---
 
-# 2026
-## **DevOps** | Long-Term Focus on AI/ML Ops
-Pivoting to Infrastructure and deep-diving into DEVOPS.
-1. [Homelab] (still private repo)
-2. [LegendarySetupKeys](https://github.com/RegardV/LegendarySetupKeys.git) - Easy API key Switching for claude cli Z.ai and kimi
+I run a small fleet of machines as a self-hosted **AI company** — autonomous agent teams that produce content, build software, and operate live web properties on infrastructure I own end to end. Local-first LLMs, no cloud lock-in, real revenue-facing systems.
 
-# 2025
-## **AI Workflow Engineer** | Shipping Autonomous Content Factories & Agentic Dev Teams
-### Released:
+### 🧠 What I'm building
 
-1. [Legendary AI Coding Team for Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) Updated 08/02/26 
-2. [Md to PDF](https://github.com/RegardV/Enhanced-Markdown-to-PDF) - Neat MD to PDF converter
+- **🤖 Autonomous agent companies** — orchestrated *CEO / CTO / Auditor*-style agent teams that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
+- **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
+- **🧩 Self-hosted LLM stack** — Qwen-class 27B models on `llama.cpp` with hot model-swapping, a web-search proxy, and **Hermes**, a Telegram/WhatsApp gateway into my local models. GPU-hosted, fully local.
+- **🌍 Production web estate** — a cluster of WordPress + WooCommerce sites and a Moodle course platform, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
-### Work in Progress (Backburner):
-3. [Journal Craft Crew](https://github.com/RegardV/JournalCraftCrew)
-4. [InkyPyrus AI Studio](https://github.com/RegardV/InkyPyrus-Ai-Studio.git)
+### 🌐 Live Properties
 
-### 📫 Connect With Me
-- X: [@InkyPyrus_PubCo](https://twitter.com/InkyPyrus_PubCo)
-- LinkedIn: [Regard Vermeulen](https://www.linkedin.com/in/regard-vermeulen/)
+- **[InkyPyrus Publishing](https://www.inkypyrus.com)** — my AI-automation studio: the systems that grow a business while you work.
+- **[AfrEcoSoil](https://www.afrecosoil.co.za)** — biological soil rehabilitation &amp; soil-health venture (knowledge, books, WooCommerce shop).
+- **[AfrEcoSoil Academy](https://knowledge.afrecosoil.co.za)** — the self-hosted Moodle course platform behind it.
 
-# 2024 DES
-## **CAREER PIVOT FROM FINANCE
+### 🏗️ Stack
 
-<p align="center">Thanks for visiting! 🌟</p>
+- **Languages:** Python, Bash
+- **Infra:** Docker · Docker Compose · Caddy · Cloudflare Tunnels · systemd · Linux (Ubuntu &amp; Arch)
+- **AI/ML:** llama.cpp · local LLMs (Qwen) · Remotion · CrewAI · n8n · Claude Code agents
+- **Data / CMS:** MariaDB · PostgreSQL · WordPress / WooCommerce · Moodle
+- **CRM / Automation:** GoHighLevel
+
+### 📌 Featured Projects
+
+| Project | What it is |
+|---|---|
+| [LegendaryTeam_For_Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) | An autonomous AI engineering team for Claude |
+| [LegendarySetupKeys](https://github.com/RegardV/LegendarySetupKeys) | Fast API-key switcher for the Claude CLI (Z.ai ↔ Kimi) |
+| [Fusion-Brain](https://github.com/RegardV/Fusion-Brain) | Local-first, self-compounding Obsidian knowledge vault |
+| [JournalCraftCrew](https://github.com/RegardV/JournalCraftCrew) | A CrewAI crew that compiles writing journals |
+| [OpenClaw-Janitor](https://github.com/RegardV/OpenClaw-Janitor) | Keeps OpenClaw backed up and online, hassle-free |
+| [Enhanced-Markdown-to-PDF](https://github.com/RegardV/Enhanced-Markdown-to-PDF) | Professional PDFs from Markdown |
+
+### 🗺️ The Arc
+
+**2026 — Operating a self-hosted, multi-agent AI company.**
+Running autonomous agent teams across a multi-machine fleet: local LLM inference, a content factory, and a live WordPress/WooCommerce estate — all self-hosted.
+
+**2025 — AI Workflow Engineer.**
+Shipping autonomous content factories and agentic dev teams.
+
+**2024 — Career pivot from finance into DevOps & AI.**
+
+### 📫 Connect
+
+- **X:** [@InkyPyrus_PubCo](https://twitter.com/InkyPyrus_PubCo)
+- **LinkedIn:** [Regard Vermeulen](https://www.linkedin.com/in/regard-vermeulen/)
+
+<p align="center">Always learning. Thanks for visiting! 🌟</p>
