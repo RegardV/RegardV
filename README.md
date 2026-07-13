@@ -27,11 +27,9 @@ I run a small fleet of machines as a self-hosted **AI company** — autonomous a
 - **🧩 Self-hosted LLM stack** — Qwen-class 27B models on `llama.cpp` with hot model-swapping, a web-search proxy, and **Hermes**, a Telegram/WhatsApp gateway into my local models. GPU-hosted, fully local.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce sites and a Moodle course platform, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
-### 🌐 Live Properties
+### 🌐 Portfolio at:
 
-- **[InkyPyrus Publishing](https://www.inkypyrus.com)** — my AI-automation studio: the systems that grow a business while you work.
-- **[AfrEcoSoil](https://www.afrecosoil.co.za)** — biological soil rehabilitation &amp; soil-health venture (knowledge, books, WooCommerce shop).
-- **[AfrEcoSoil Academy](https://knowledge.afrecosoil.co.za)** — the self-hosted Moodle course platform behind it.
+- **[Real And Works](https://www.realandworks.com)** — My portfolio
 
 ### 🏗️ Stack
 
@@ -48,7 +46,6 @@ I run a small fleet of machines as a self-hosted **AI company** — autonomous a
 | [LegendaryTeam_For_Claude](https://github.com/RegardV/LegendaryTeam_For_Claude) | An autonomous AI engineering team for Claude |
 | [LegendarySetupKeys](https://github.com/RegardV/LegendarySetupKeys) | Fast API-key switcher for the Claude CLI (Z.ai ↔ Kimi) |
 | [Fusion-Brain](https://github.com/RegardV/Fusion-Brain) | Local-first, self-compounding Obsidian knowledge vault |
-| [JournalCraftCrew](https://github.com/RegardV/JournalCraftCrew) | A CrewAI crew that compiles writing journals |
 | [OpenClaw-Janitor](https://github.com/RegardV/OpenClaw-Janitor) | Keeps OpenClaw backed up and online, hassle-free |
 | [Enhanced-Markdown-to-PDF](https://github.com/RegardV/Enhanced-Markdown-to-PDF) | Professional PDFs from Markdown |
 
