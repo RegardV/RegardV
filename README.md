@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">Regard Vermeulen</h1>
-<p align="center">Self-Hosted AI &amp; Autonomous Agent Systems Engineer — I build and run multi-agent systems that operate real businesses on infrastructure I own end to end.</p>
+<p align="center">Self-Hosted AI &amp; Agent Engineer — I build the memory, context, and tuning that make local LLM agents remember more, drift less, and run reliably on infrastructure I own end to end.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pretoria,%20ZA-blue" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Self--Hosted%20AI-orange" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Building-Multi--Agent%20Systems-8A2BE2" alt="Multi-Agent"/>
+  <img src="https://img.shields.io/badge/Focus-Context%20Engineering-8A2BE2" alt="Context Engineering"/>
   <img src="https://img.shields.io/badge/Infra-DevOps-2496ED" alt="DevOps"/>
 </p>
 
@@ -19,12 +19,13 @@
 
 ---
 
-I run a small fleet of machines as a self-hosted **AI company** — autonomous agent teams that produce content, build software, and operate live web properties on infrastructure I own end to end. Local-first LLMs, no cloud lock-in, real revenue-facing systems. The thesis behind everything: **own your AI infrastructure, don't rent it.**
+I run a small self-hosted fleet as a lab for **making agents work well** — the memory, retrieval, context, and model tuning that let local LLMs remember more, drift less, and stay reliable over long runs. Everything runs on infrastructure I own: local-first LLMs, no cloud lock-in, real systems in daily use. The thesis behind it all: **own your AI infrastructure, don't rent it.**
 
 ### 🧠 What I'm building
 
-- **🤖 Autonomous agent companies** — orchestrated *CEO / CTO / Auditor*-style agent teams that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
+- **🧠 Context &amp; agent engineering** — memory systems, retrieval, and harness/prompt design that make local LLMs remember more, drift less, and run better. Fine-tuning setups like Hermes to work reliably over long sessions (hermes-fusion-memory, model tuning, agent skills).
 - **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, hybrid memory, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
+- **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams (zhc-os) that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
 - **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live.
 - **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce storefronts and a self-hosted Moodle course platform with an onboard tutor LLM, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
