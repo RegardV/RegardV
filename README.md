@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">Regard Vermeulen</h1>
-<p align="center">Self-Hosted AI &amp; Agent Engineer — I build the memory, context, and tuning that make local LLM agents remember more, drift less, and run reliably on infrastructure I own end to end.</p>
+<p align="center">Self-Hosted AI &amp; Agent Engineer — I build the memory, context, and tuning that make local LLM agents run reliably, and the x402 payment rails that let them buy and sell on their own. All on infrastructure I own end to end.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pretoria,%20ZA-blue" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Self--Hosted%20AI-orange" alt="Focus"/>
   <img src="https://img.shields.io/badge/Focus-Context%20Engineering-8A2BE2" alt="Context Engineering"/>
+  <img src="https://img.shields.io/badge/Focus-Agent%20Payments%20(x402)-2ea44f" alt="Agent Payments x402"/>
   <img src="https://img.shields.io/badge/Infra-DevOps-2496ED" alt="DevOps"/>
 </p>
 
@@ -19,14 +20,14 @@
 
 ---
 
-I run a small self-hosted fleet as a lab for **making agents work well** — the memory, retrieval, context, and model tuning that let local LLMs remember more, drift less, and stay reliable over long runs. Everything runs on infrastructure I own: local-first LLMs, no cloud lock-in, real systems in daily use. The thesis behind it all: **own your AI infrastructure, don't rent it.**
+I run a small self-hosted fleet as a lab for two things: **making agents work well** — the memory, retrieval, context, and model tuning that keep local LLMs reliable over long runs — and **letting agents transact on their own** via **x402** payment rails (buy and sell files, endpoints, and answers for USDC, self-custodial). Everything runs on infrastructure I own: local-first LLMs, no cloud lock-in, real systems in daily use. The thesis behind it all: **own your AI infrastructure, don't rent it.**
 
 ### 🧠 What I'm building
 
 - **🧠 Context &amp; agent engineering** — memory systems, retrieval, and harness/prompt design that make local LLMs remember more, drift less, and run better. Fine-tuning setups like Hermes to work reliably over long sessions (hermes-fusion-memory, model tuning, agent skills).
+- **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy and sell files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live (x402-sandbox, x402-wordpress).
 - **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, hybrid memory, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
 - **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams (zhc-os) that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
-- **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live.
 - **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce storefronts and a self-hosted Moodle course platform with an onboard tutor LLM, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
