@@ -57,13 +57,13 @@ I run a small self-hosted fleet as a lab for two things: **making agents work we
 
 ### 🗺️ The Arc
 
-**2026 — Operating a self-hosted, multi-agent AI company.**
-Running autonomous agent teams across a multi-machine fleet: local LLM inference, a content factory, a live WordPress/WooCommerce + Moodle estate, and a growing set of open-source agent skills — all self-hosted.
+**2026 — Self-hosted AI & agent engineering.**
+Context & memory systems that keep local LLM agents reliable, x402 agent-payment rails, autonomous agent teams, a content engine, and a live WordPress/WooCommerce + Moodle estate — all self-hosted across a multi-machine fleet.
 
-**2025 — AI Workflow Engineer.**
-Shipping autonomous content factories and agentic dev teams.
+**2025 — Standing start.**
+Came into AI engineering from zero in early 2025 and started shipping production systems the same year. The pace is the point: I learn a stack by putting it into live use.
 
-**2024 — Career pivot from finance into DevOps &amp; AI.**
+**Before that — finance → DevOps.**
 
 ### 📫 Connect
 
