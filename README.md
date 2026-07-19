@@ -24,7 +24,8 @@ I run a small fleet of machines as a self-hosted **AI company** — autonomous a
 ### 🧠 What I'm building
 
 - **🤖 Autonomous agent companies** — orchestrated *CEO / CTO / Auditor*-style agent teams that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
-- **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
+- **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, hybrid memory, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
+- **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live.
 - **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce storefronts and a self-hosted Moodle course platform with an onboard tutor LLM, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
@@ -36,17 +37,19 @@ I run a small fleet of machines as a self-hosted **AI company** — autonomous a
 
 | Project | What it is |
 |---|---|
-| [Fusion-Brain](https://github.com/RegardV/Fusion-Brain) | Local-first, self-compounding Obsidian knowledge vault — three ideas fused, plus a nightly self-healing audit |
+| [x402-sandbox](https://github.com/RegardV/x402-sandbox) | Self-hosted x402 payment gateway — make any file, folder, or endpoint sellable to AI agents for USDC. Demand pricing, sales funnel, admin dashboard |
+| [x402-wordpress](https://github.com/RegardV/x402-wordpress) | Sell files, endpoints, and answers to AI agents for USDC over x402 — self-custodial WordPress plugin, 0% fees, no middleman |
+| [zhc-fabric](https://github.com/RegardV/zhc-fabric) | Multi-view consensus fabric for agent teams — an Erlang/OTP sidecar in Docker (no host Erlang) |
+| [hermes-fusion-memory](https://github.com/RegardV/hermes-fusion-memory) | Hybrid agent memory — Fusion Brain + MemPalace: per-turn recall, living playbooks, a `memory_search` tool |
 | [ATG-looping](https://github.com/RegardV/ATG-looping) | Atomic Task Graph agent skills for Claude Code — graph-driven planning + resumable looping (built from arXiv:2607.01942) |
-| [kubernetes-mastery](https://github.com/RegardV/kubernetes-mastery) | Claude Code plugin: reason about, author hardened manifests for, and safely operate Kubernetes |
 | [moodle-tool_h5pmedic](https://github.com/RegardV/moodle-tool_h5pmedic) | Upgrade H5P Medic — make Moodle upgrades safe: fingerprint, compare, and auto-repair H5P (GPL · PHPUnit + CI) |
-| [zhc-os-hermes](https://github.com/RegardV/zhc-os-hermes) | Zero-Human Company OS starter — profiles, skills, a Joule ledger, and a Kanban course repo for an autonomous agent company |
 
 ### 🏗️ Stack
 
-- **Languages:** Python, Bash, PHP
+- **Languages:** Python, TypeScript, PHP, Bash (a little Erlang/OTP)
 - **Infra:** Docker · Docker Compose · Kubernetes · Caddy · Cloudflare Tunnels · systemd · Linux (Ubuntu &amp; Arch)
 - **AI/ML:** llama.cpp · local LLMs (Qwen) · Claude Code &amp; Agent Skills · MCP · CrewAI · n8n · Remotion
+- **Agent payments:** x402 · USDC on Base · self-custodial CDP
 - **Data / CMS:** MariaDB · PostgreSQL · WordPress / WooCommerce · Moodle
 - **CRM / Automation:** GoHighLevel
 
