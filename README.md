@@ -24,10 +24,10 @@ I run a small self-hosted fleet as a lab for two things: **making agents work we
 
 ### 🧠 What I'm building
 
-- **🧠 Context &amp; agent engineering** — memory systems, retrieval, and harness/prompt design that make local LLMs remember more, drift less, and run better. Fine-tuning setups like Hermes to work reliably over long sessions (hermes-fusion-memory, model tuning, agent skills).
+- **🧠 Context &amp; agent engineering** — memory systems, hybrid retrieval, and harness/prompt design that make local LLMs remember more, drift less, and run better. Tuning and hardening setups like Hermes to run reliably over long sessions (hermes-fusion-memory, agent skills).
 - **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy and sell files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live (x402-sandbox, x402-wordpress).
 - **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, hybrid memory, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
-- **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams (zhc-os) that plan, build, test, and ship with minimal human input. One agent-built service shipped with **5,900+ passing tests**.
+- **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams (zhc-os) built to plan, build, test, and ship with minimal human input.
 - **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce storefronts and a self-hosted Moodle course platform with an onboard tutor LLM, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
@@ -50,7 +50,7 @@ I run a small self-hosted fleet as a lab for two things: **making agents work we
 
 - **Languages:** Python, TypeScript, PHP, Bash (a little Erlang/OTP)
 - **Infra:** Docker · Docker Compose · Kubernetes · Caddy · Cloudflare Tunnels · systemd · Linux (Ubuntu &amp; Arch)
-- **AI/ML:** llama.cpp · local LLMs (Qwen) · Claude Code &amp; Agent Skills · MCP · CrewAI · n8n · Remotion
+- **AI/ML:** llama.cpp · local LLMs (Qwen) · Claude Code &amp; Agent Skills · MCP · RAG · memory systems · n8n · Remotion
 - **Agent payments:** x402 · USDC on Base · self-custodial CDP
 - **Data / CMS:** MariaDB · PostgreSQL · WordPress / WooCommerce · Moodle
 - **CRM / Automation:** GoHighLevel
