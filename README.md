@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Regard Vermeulen</h1>
-<p align="center">Self-Hosted AI &amp; Agent Engineer — I build the memory, context, and tuning that make local LLM agents run reliably, and the x402 payment rails that let them buy and sell on their own. All on infrastructure I own end to end.</p>
+<p align="center"><strong>Applied AI Engineer</strong> · Self-Hosted AI &amp; Agent Engineer — I build the memory, context, and tuning that make local LLM agents run reliably, and the x402 payment rails that let them buy and sell on their own. All on infrastructure I own end to end.</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Pretoria,%20ZA-blue" alt="Location"/>
   <img src="https://img.shields.io/badge/Focus-Self--Hosted%20AI-orange" alt="Focus"/>
