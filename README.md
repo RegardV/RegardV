@@ -26,7 +26,7 @@ I run a small self-hosted fleet as a lab for two things: **making agents work we
 - **🧠 Context &amp; agent engineering** — memory systems, hybrid retrieval, and harness/prompt design that make local LLMs remember more, drift less, and run better. Tuning and hardening setups like Hermes to run reliably over long sessions (hermes-fusion-memory, agent skills).
 - **💸 Agent-native commerce (x402)** — self-hosted payment rails that let AI agents buy and sell files, endpoints, and cited answers for USDC — 0% middleman fees, self-custodial, no hosted infra. First real Base **mainnet** settlement live (x402-sandbox, x402-wordpress).
 - **🧩 Agent skills &amp; tooling** — reusable systems that give an agent a place to think, remember, plan, and operate: knowledge vaults, resumable task graphs, hybrid memory, and a Kubernetes plugin. See the [Skills Built](https://realandworks.com/skills/) section of my site.
-- **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams (zhc-os) built to plan, build, test, and ship with minimal human input.
+- **🤖 Autonomous agent systems** — orchestrated *CEO / CTO / Auditor*-style agent teams ([**inky-os**](https://github.com/RegardV/inky-os)) built to plan, build, test, and ship with minimal human input. Open-source reference implementation, AGPL.
 - **🎬 "The Press" content engine** — programmatic video reels (Remotion, 15+ styles), carousels, branded PDFs, and TTS voiceovers — generated end-to-end from a campaign brief.
 - **🌍 Production web estate** — a cluster of WordPress + WooCommerce storefronts and a self-hosted Moodle course platform with an onboard tutor LLM, containerized behind Caddy + Cloudflare Tunnels across multiple hosts.
 
@@ -38,6 +38,7 @@ I run a small self-hosted fleet as a lab for two things: **making agents work we
 
 | Project | What it is |
 |---|---|
+| [**inky-os**](https://github.com/RegardV/inky-os) | Autonomous multi-agent "company OS" — a CEO + specialist agents that take a brief through research, production, scheduling &amp; invoicing. File-first memory, immutable logging, local-LLM first (AGPL) |
 | [x402-sandbox](https://github.com/RegardV/x402-sandbox) | Self-hosted x402 payment gateway — make any file, folder, or endpoint sellable to AI agents for USDC. Demand pricing, sales funnel, admin dashboard |
 | [x402-wordpress](https://github.com/RegardV/x402-wordpress) | Sell files, endpoints, and answers to AI agents for USDC over x402 — self-custodial WordPress plugin, 0% fees, no middleman |
 | [zhc-fabric](https://github.com/RegardV/zhc-fabric) | Multi-view consensus fabric for agent teams — an Erlang/OTP sidecar in Docker (no host Erlang) |
