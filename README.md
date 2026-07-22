@@ -14,7 +14,6 @@
 
 <p align="center">
   <a href="https://realandworks.com"><img src="https://img.shields.io/badge/Portfolio-realandworks.com-16181b" alt="Portfolio"/></a>
-  <a href="https://twitter.com/InkyPyrus_PubCo"><img src="https://img.shields.io/twitter/follow/InkyPyrus_PubCo?style=social" alt="X"/></a>
   <a href="https://www.linkedin.com/in/regard-vermeulen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
